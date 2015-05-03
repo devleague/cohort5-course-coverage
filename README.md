@@ -1,5 +1,5 @@
 ####What Have We Covered?
-![All The Things]('https://github.com/devleague/cohort5-course-coverage/images/allthethings.jpg')
+![All The Things]('images/allthethings.png')
 
 TO EDIT:
 Add words to wordlist.txt
